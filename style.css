@@ -1,0 +1,10 @@
+p {
+  color: crimson;
+  font-family: "Courier New", Courier, monospace;
+  font-size: large;
+  padding: auto;
+}
+
+li {
+  color: blue;
+}
